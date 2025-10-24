@@ -258,17 +258,74 @@ const lyrics = [
     { time: 0, text: "Dionela - Musika" },
     { time: 3, text: "Ikaw lang mahal" },
     { time: 7, text: "Laman ng tula" },
-    { time: 10, text: "Tunig ng gitara" },
+    { time: 10, text: "Tunig ng gitara't" },
     { time: 12, text: "Himig ng kanta" },
-
     { time: 15.5, text: "Kumupas man ang tinig" },
     { time: 17, text: "Ay di mawawala" },
     { time: 21, text: "Hiwaga mong dala" },
     { time: 26, text: "Ikaw aking musika" },
+
     { time: 52, text: "Kung dumating ang araw" },
     { time: 54.6, text: "na 'di na maalala Ng" },
     { time: 56.7, text: "iyong mata ang aking mukha" },
+    { time: 63, text: "Mahal, huwag kang mag-alala" },
+    { time: 66, text: " tanda naman ng puso" },
+    { time: 69, text: "Ang itsura ng naging pagsinta" },
+    { time: 74, text: "Kung oras ay nababalik lang sana" },
+    { time: 76, text: "Ay ibabalik no'ng una kang nakita" }, 
+    { time: 85, text: "Muli kang liligawan nang muli kong" },          
+    { time: 88.5, text: "Muli kang liligawan nang muli kong maranasanAng umibig sa anghel sa lupa" }, 
+
+
+ 
+    { time: 94, text: "Ikaw lang mahal" },
+    { time: 98, text: "Laman ng tula" },
+    { time: 100, text: "Tunog ng gitara't" },
+    { time: 103, text: "Himig ng kanta" },
+    { time: 106, text: "Kumupas man ang tinig" },
+    { time: 108, text: "Ay di mawawala" },
+    { time: 111, text: "Hiwaga mong dala" },
+    { time: 116, text: "Ikaw aking musika" },
+    
+    // aaaaa
+
+    { time: 121, text: "Kung utak ay hindi na kayang" },
+    { time: 124, text: "gumawa ng melodiya" },
+    { time: 127, text: "Para pisngi mo'y pumula" },
+    { time: 132, text: "Memorya ko man ay wala" },
+    { time: 134.5, text: "nakatatak na sa tadhanang" },
+    { time: 137.5, text: "Minsan sa 'yo'y namangha" },    
+
+
+    { time: 144.5, text: "Kung oras ay nababalik lang sana" },
+    { time: 148.5, text: "Ay ibabalik no'ng una kang nakita" },
+    { time: 153, text: "At aking iuulat sa iyong umabot" },
+    { time: 157.5, text: "nang walang-hanggan Ang 'storya nating dal'wa" },
+
+    { time: 162, text: "Ikaw lang mahal" }, 
+    { time: 166, text: "Laman ng tula" },
+    { time: 169, text: "Tunig ng gitara't" },
+    { time: 172, text: "Himig ng kanta" },
+    { time: 175, text: "Kumupas man ang tinig" },
+    { time: 178, text: "Ay di mawawala" },
+    { time: 181, text: "Hiwaga mong dala" },
+    { time: 185, text: "Ikaw aking musika" },
+
+    {time: 211, text: "ikaw lang mahal"},
+    {time: 215, text: "Laman ng tula"},
+    {time: 218, text: "Tunig ng gitara't"},             
+    {time: 220, text: "Himig ng kanta"},
+    {time: 223, text: "Kumupas man ang tinig"},
+    {time: 225, text: "Ay di mawawala"},
+    {time: 228, text: "Hiwaga mong dala"},
+    {time: 234, text: "Ako ang 'yong musika"}
+    
+    
    
+
+
+
+  
     // add more lines here with their respective times
 ];
 
